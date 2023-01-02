@@ -1,7 +1,8 @@
 # Kodluyoruz Ilk Repo
 Bu repo [Kodluyoruz](https://kodluyoruz.org/tr/kodluyoruz/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+![Ekran Görüntüsü (750)](https://user-images.githubusercontent.com/54955167/210203665-29990440-f489-443a-9e68-303d1d0fe95e.png)
 
-![image-20230102100715573](C:\Users\LENOVO\AppData\Roaming\Typora\typora-user-images\image-20230102100715573.png)
+
 
 ## Installation
 ***
